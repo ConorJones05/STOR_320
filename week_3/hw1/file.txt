@@ -1,0 +1,18 @@
+
+Development of     basic skill    set for    data analysis in Python from obtaining data to data carpentry, exploration, modeling, and communication.
+
+
+	"Lectures cover topics such as Python programming, data cleaning and visualization, predictive modeling, and elements of machine learning. The course will develop fluency in the Python language and the standard scientific libraries such as NumPy, Pandas, Matplotlib, and Scikit-Learn. Programming analyses in more advanced areas of data science." 
+
+
+
+
+
+
+Plan to come to every class with your computer and ready to work with others.
+
+
+Using resources around you is a key component of successful data analysis. This includes the internet and people. 
+
+
+Students may not receive credit for both STOR 320 and STOR 520.
